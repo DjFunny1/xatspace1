@@ -546,6 +546,7 @@ button:hover {
 }
 
 .pin_contenedor {
+    margin-top: 5rem;
     background-color: rgba(255, 255, 255, 0);
     width: 100%;
     display: grid;
