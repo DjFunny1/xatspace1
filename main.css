@@ -30,7 +30,7 @@ main {
 
 nav {
     height: 5rem;
-    background-color: rgb(157, 216, 255);
+    background-color: rgba(157, 216, 255, 0);
     display: flex;
 }
 
@@ -546,7 +546,7 @@ button:hover {
 }
 
 .pin_contenedor {
-    margin-top: 5rem;
+    margin-top: 2rem;
     background-color: rgba(255, 255, 255, 0);
     width: 100%;
     display: grid;
