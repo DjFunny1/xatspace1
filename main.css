@@ -35,6 +35,7 @@ nav {
 }
 
 .navbar-navegacion {
+    margin-top: 5rem;
     display: flex;
     align-items: center;
     min-width: 12rem;
@@ -292,6 +293,7 @@ button:hover {
 }
 
 .navbar-busqueda {
+    margin-top: 5rem;
     flex-grow: 4;
     min-width: 3rem;
     background-color: rgb(157, 216, 255);
@@ -301,6 +303,7 @@ button:hover {
 }
 
 .navbar-perfil {
+    margin-top: 5rem;
     display: flex;
     align-items: center;
     min-width: 11rem;
